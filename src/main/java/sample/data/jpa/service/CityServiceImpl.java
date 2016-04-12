@@ -53,7 +53,6 @@ class CityServiceImpl implements CityService
     }
 
     @Override
-    @Transactional
     public void deleteCity(String name,
                            String country)
     {
