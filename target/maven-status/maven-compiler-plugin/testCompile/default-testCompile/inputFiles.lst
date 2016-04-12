@@ -1,0 +1,3 @@
+/media/truecrypt1/Projects/spring-boot/spring-boot-samples/spring-boot-sample-data-jpa/src/test/java/sample/data/jpa/SampleDataJpaApplicationTests.java
+/media/truecrypt1/Projects/spring-boot/spring-boot-samples/spring-boot-sample-data-jpa/src/test/java/sample/data/jpa/service/HotelRepositoryIntegrationTests.java
+/media/truecrypt1/Projects/spring-boot/spring-boot-samples/spring-boot-sample-data-jpa/src/test/java/sample/data/jpa/service/CityRepositoryIntegrationTests.java
